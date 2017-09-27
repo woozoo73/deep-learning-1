@@ -14,7 +14,7 @@
 * [TensorFlow 시작](https://github.com/woozoo73/deep-learning-1/blob/master/01-00-hello-tensorflow.ipynb)
 * [Getting Started With TensorFlow](https://github.com/woozoo73/deep-learning-1/blob/master/01-01-getting-started-with-tensorflow.ipynb)
 * [Getting Started With TensorFlow - 한글](https://github.com/woozoo73/deep-learning-1/blob/master/01-01-getting-started-with-tensorflow-ko.ipynb)
-* [선형회귀(Linear regression)](https://github.com/woozoo73/deep-learning-1/blob/master/01-02-linear-regression.ipynb)
+* [선형회귀(Linear regression) - 작업중](https://github.com/woozoo73/deep-learning-1/blob/master/01-02-linear-regression.ipynb)
 
 ### 2일차
 * 준비중입니다.
