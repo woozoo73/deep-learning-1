@@ -10,7 +10,7 @@
 * [읽을거리들](https://github.com/woozoo73/bd-malgm-team#machine-learning)
 
 ### 1일차 : 선형회귀(Linear regression)
-* 딥러닝 이론 - 준비중입니다.
+* [딥러닝 이해 #1](https://docs.google.com/presentation/d/1R_4v3_0jKFHHd-d9iuZIB7tmClxJqhTnwQE4-FCdZ8c/edit#slide=id.p)
 * [TensorFlow 시작](https://github.com/woozoo73/deep-learning-1/blob/master/01-00-hello-tensorflow.ipynb)
 * [**Getting Started With TensorFlow**](https://github.com/woozoo73/deep-learning-1/blob/master/01-01-getting-started-with-tensorflow.ipynb)
 * [**Getting Started With TensorFlow - 한글**](https://github.com/woozoo73/deep-learning-1/blob/master/01-01-getting-started-with-tensorflow-ko.ipynb)
