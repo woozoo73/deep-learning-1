@@ -16,7 +16,7 @@
 * [**Getting Started With TensorFlow - 한글**](https://github.com/woozoo73/deep-learning-1/blob/master/01-01-getting-started-with-tensorflow-ko.ipynb)
 * [**선형회귀(Linear regression)**](https://github.com/woozoo73/deep-learning-1/blob/master/01-02-linear-regression.ipynb)
 
-### 2일차 : 딥러닝
+### 2일차 : 딥러닝(Deep learning)
 * [**인공신경망(Artificial neural network)**](https://github.com/woozoo73/deep-learning-1/blob/master/02-02-neural-network.ipynb)
 
 ### 3일차
