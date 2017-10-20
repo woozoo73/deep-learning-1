@@ -18,6 +18,7 @@
 
 ### 2일차 : 딥러닝(Deep learning)
 * [**인공신경망(Artificial neural network)**](https://github.com/woozoo73/deep-learning-1/blob/master/02-02-neural-network.ipynb)
+* [**인공신경망(Node, Layer, Variable's dimension)**](https://github.com/woozoo73/deep-learning-1/blob/master/02-02-layer.ipynb)
 * [**초기화 관련 함수 사용법**](https://github.com/woozoo73/deep-learning-1/blob/master/02-00-usage.ipynb)
 
 ### 3일차
